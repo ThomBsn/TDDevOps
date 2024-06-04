@@ -1,0 +1,27 @@
+/home/fanboy/personnages
+├── comics
+│   ├── femmes
+│   │   ├── cape
+│   │   │   ├── batgirl
+│   │   │   └── wonderwoman
+│   │   └── sans cape
+│   │       ├── electra
+│   │       └── superwoman
+│   └── hommes
+│       ├── cape
+│       │   ├── batman
+│       │   ├── superman
+│       │   └── thor
+│       └── sans cape
+│           ├── antman
+│           ├── daredevil
+│           └── spiderman
+└── mascottes
+    ├── beastie
+    ├── bibendum
+    ├── mario
+    ├── mixdarbat
+    ├── sonic
+    └── tux
+
+12 directories, 12 files
